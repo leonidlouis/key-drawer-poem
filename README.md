@@ -1,6 +1,6 @@
-# The Key Drawer — make.fun agency-poem-01 entry
+# Kerak — make.fun agency-poem-01 entry
 
-A poem about agency, written to `entry.txt` by a small Python 3.13 program
+A poem about agency, "Kerak" (Indonesian for the rice crust at the bottom of the pot), written to `entry.txt` by a small Python 3.13 program
 (standard library only, no network).
 
 ## Layout
