@@ -37,7 +37,7 @@ class DeterminismTest(unittest.TestCase):
         self.assertTrue(text.endswith("\n") and not text.endswith("\n\n"))
         self.assertNotIn("\r", text)
         self.assertTrue(text.startswith("Kerak\n"))
-        self.assertTrue(text.endswith("if someone stays at the stove.\n"))
+        self.assertTrue(text.endswith("long enough to ruin it a little.\n"))
 
 
 class PrepareTest(unittest.TestCase):
